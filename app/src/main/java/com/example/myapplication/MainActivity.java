@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Spinner spinner=findViewById(R.id.spinner1);
         List<String> spArr=new ArrayList<>();
         //String str[]=new String[]{"abc","pqr","xyz"};
-        spArr.add("9999");
-        spArr.add("xyz123");
+        spArr.add("911");
+        spArr.add("100");
         spArr.add("yyyy");
 
         String str="";
