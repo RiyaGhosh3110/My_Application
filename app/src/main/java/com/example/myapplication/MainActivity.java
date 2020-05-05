@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         List<String> spArr=new ArrayList<>();
         //String str[]=new String[]{"abc","pqr","xyz"};
         spArr.add("123");
-        spArr.add("xyz123");
+        spArr.add("pqr");
         spArr.add("kola");
 
         String str="";
