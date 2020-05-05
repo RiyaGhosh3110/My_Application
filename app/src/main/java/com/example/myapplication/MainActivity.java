@@ -23,9 +23,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Spinner spinner=findViewById(R.id.spinner1);
         List<String> spArr=new ArrayList<>();
         //String str[]=new String[]{"abc","pqr","xyz"};
-        spArr.add("123");
+        spArr.add("9999");
         spArr.add("xyz123");
-        spArr.add("kola");
+        spArr.add("yyyy");
 
         String str="";
         for(String k:spArr)
