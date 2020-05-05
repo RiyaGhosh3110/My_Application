@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         //String str[]=new String[]{"abc","pqr","xyz"};
         spArr.add("123");
         spArr.add("pqr");
-        spArr.add("kol");
+        spArr.add("kola");
 
         String str="";
         for(String k:spArr)
